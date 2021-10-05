@@ -13,7 +13,7 @@
        
    clone git repository:
    
-       cd ~
+       cd Desktop/
        git clone https://github.com/haroon-mahmood-4276/linux-dynamic-wallpaper.git
        cd linux-dynamic-wallpaper
 
