@@ -1,0 +1,170 @@
+<background>
+  <starttime>
+    <year>2014</year>
+    <month>01</month>
+    <day>11</day>
+    <hour>0</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+  <!-- 00:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/15.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/15.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/16.jpeg</to>
+  </transition>
+  <!-- 03:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/16.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/16.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/1.jpeg</to>
+  </transition>
+  <!-- 05:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/1.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/1.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/2.jpeg</to>
+  </transition>
+  <!-- 06:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/2.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/2.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/3.jpeg</to>
+  </transition>
+  <!-- 07:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/3.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/3.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/4.jpeg</to>
+  </transition>
+  <!-- 08:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/4.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/4.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/5.jpeg</to>
+  </transition>
+  <!-- 09:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/5.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/5.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/6.jpeg</to>
+  </transition>
+  <!-- 10:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/6.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/6.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/7.jpeg</to>
+  </transition>
+  <!-- 11:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/7.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/7.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/8.jpeg</to>
+  </transition>
+  <!-- 13:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/8.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/8.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/9.jpeg</to>
+  </transition>
+  <!-- 14:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/9.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/9.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/10.jpeg</to>
+  </transition>
+  <!-- 15:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/10.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/10.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/11.jpeg</to>
+  </transition>
+  <!-- 16:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/11.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/11.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/12.jpeg</to>
+  </transition>
+  <!-- 17:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/12.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/12.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/13.jpeg</to>
+  </transition>
+  <!-- 18:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/13.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/13.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/14.jpeg</to>
+  </transition>
+  <!-- 20:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/usr/share/backgrounds/dynamic-wallpaper/mojave/14.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dynamic-wallpaper/mojave/14.jpeg</from>
+    <to>/usr/share/backgrounds/dynamic-wallpaper/mojave/15.jpeg</to>
+  </transition>
+</background>

@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>aurora</name>
+    <filename>/usr/share/backgrounds/dynamic-wallpaper/aurora/aurora.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3465a4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>beach</name>
+    <filename>/usr/share/backgrounds/dynamic-wallpaper/beach/beach.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3465a4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>big-sur</name>
+    <filename>/usr/share/backgrounds/dynamic-wallpaper/big-sur/big-sur.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3465a4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>big-sur-v2</name>
+    <filename>/usr/share/backgrounds/dynamic-wallpaper/big-sur-v2/big-sur-v2.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3465a4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>catalina</name>
+    <filename>/usr/share/backgrounds/dynamic-wallpaper/catalina/catalina.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3465a4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>cliffs</name>
+    <filename>/usr/share/backgrounds/dynamic-wallpaper/cliffs/cliffs.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3465a4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>earth</name>
+    <filename>/usr/share/backgrounds/dynamic-wallpaper/earth/earth.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3465a4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>firewatch</name>
+    <filename>/usr/share/backgrounds/dynamic-wallpaper/firewatch/firewatch.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3465a4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>island</name>
+    <filename>/usr/share/backgrounds/dynamic-wallpaper/island/island.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3465a4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>market</name>
+    <filename>/usr/share/backgrounds/dynamic-wallpaper/market/market.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3465a4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>room</name>
+    <filename>/usr/share/backgrounds/dynamic-wallpaper/room/room.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3465a4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>sahara</name>
+    <filename>/usr/share/backgrounds/dynamic-wallpaper/sahara/sahara.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3465a4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>mojave</name>
+    <filename>/usr/share/backgrounds/dynamic-wallpaper/mojave/mojave.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3465a4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
