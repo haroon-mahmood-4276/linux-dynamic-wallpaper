@@ -9,146 +9,266 @@
 		<second>0</second>
 	</starttime>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/0.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/0.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/1.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/1.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/1.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/2.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/2.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/2.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/3.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/3.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/3.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/4.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/4.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/4.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/5.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/5.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/5.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/6.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/6.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/6.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/7.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/7.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/7.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/8.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/8.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/8.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/9.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/9.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/9.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/10.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/10.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/10.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/11.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/11.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/11.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/12.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/12.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/12.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/13.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/13.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/13.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/14.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/14.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/14.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/15.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/15.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/15.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/16.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/16.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/16.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/17.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/17.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/17.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/18.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/18.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/18.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/19.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/19.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/19.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/20.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/20.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/20.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/21.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/21.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/21.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/22.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/22.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/22.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/23.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/earth/23.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/earth/23.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/earth/0.jpg</to>
 	</transition>

@@ -9,146 +9,266 @@
 		<second>0</second>
 	</starttime>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/0.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/0.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/1.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/1.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/1.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/2.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/2.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/2.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/3.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/3.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/3.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/4.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/4.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/4.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/5.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/5.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/5.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/6.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/6.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/6.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/7.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/7.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/7.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/8.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/8.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/8.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/9.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/9.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/9.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/10.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/10.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/10.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/11.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/11.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/11.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/12.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/12.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/12.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/13.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/13.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/13.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/14.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/14.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/14.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/15.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/15.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/15.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/16.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/16.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/16.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/17.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/17.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/17.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/18.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/18.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/18.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/19.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/19.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/19.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/20.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/20.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/20.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/21.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/21.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/21.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/22.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/22.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/22.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/23.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/room/23.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/room/23.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/room/0.jpg</to>
 	</transition>

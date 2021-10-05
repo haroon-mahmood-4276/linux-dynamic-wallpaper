@@ -9,146 +9,266 @@
 		<second>0</second>
 	</starttime>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/0.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/0.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/1.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/1.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/1.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/2.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/2.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/2.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/3.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/3.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/3.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/4.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/4.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/4.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/5.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/5.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/5.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/6.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/6.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/6.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/7.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/7.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/7.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/8.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/8.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/8.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/9.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/9.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/9.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/10.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/10.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/10.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/11.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/11.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/11.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/12.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/12.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/12.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/13.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/13.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/13.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/14.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/14.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/14.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/15.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/15.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/15.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/16.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/16.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/16.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/17.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/17.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/17.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/18.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/18.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/18.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/19.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/19.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/19.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/20.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/20.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/20.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/21.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/21.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/21.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/22.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/22.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/22.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/23.jpg</to>
 	</transition>
 
+	<static>
+		<duration>3550</duration>
+		<file>/usr/share/backgrounds/dynamic-wallpaper/sahara/23.jpg</file>
+	</static>
+
 	<transition type="overlay">
-		<duration>3600</duration>
+		<duration>50</duration>
 		<from>/usr/share/backgrounds/dynamic-wallpaper/sahara/23.jpg</from>
 		<to>/usr/share/backgrounds/dynamic-wallpaper/sahara/0.jpg</to>
 	</transition>
