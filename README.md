@@ -1,6 +1,7 @@
 # Linux Dynamic Wallpapers
 
    * Tested on Ubuntu, Zorin OS 16 Pro, Zorin OS 16 Core
+   * It is open source repository, I will be glad if you will contribute it.
 
 <b>INSTALLATION:</b>
 
